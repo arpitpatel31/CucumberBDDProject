@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="15.106">
+    <testcase classname="Start Page test of free CRM" name="Navigating to login page" time="14.99">
+        <system-out><![CDATA[Given user is on starting page..............................................passed
+When user clicks on login button............................................passed
+Then login page should open.................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
